@@ -1,0 +1,2 @@
+"# algoclub"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:taras-yaroshchuk/algoclub.gitgit push -u origin master
+"# algoclub"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:taras-yaroshchuk/algoclub.gitgit push -u origin master
